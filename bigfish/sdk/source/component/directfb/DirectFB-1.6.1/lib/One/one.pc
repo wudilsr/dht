@@ -1,0 +1,13 @@
+prefix=/home/y00181162/007-STB-SDK/SDK_SVN_V1R2/trunk/BBIT-Hi3798CV200/HiSTBLinuxV100R003C00SPC062/Code/source/component/directfb/directfb
+exec_prefix=${prefix}
+libdir=${exec_prefix}/lib
+moduledir=${exec_prefix}/lib/directfb-1.6-0
+moduledirname=directfb-1.6-0
+includedir=${prefix}/include
+
+Name: One
+Description: One IPC library
+Version: 1.6.1
+Requires: direct
+Libs: -L${libdir} -lone
+Cflags: -I${prefix}/include/directfb -I${prefix}/include/directfb/One/dist

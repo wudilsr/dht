@@ -1,0 +1,11 @@
+prefix=/home/y00181162/007-STB-SDK/SDK_SVN_V1R2/trunk/BBIT-Hi3798CV200/HiSTBLinuxV100R003C00SPC062/Code/source/component/directfb/directfb
+exec_prefix=${prefix}
+libdir=${exec_prefix}/lib
+includedir=${prefix}/include
+
+Name: Fusion IPC
+Description: High Level IPC Mechanisms
+Version: 1.6.1
+Requires: direct
+Libs: -L${libdir} -lfusion
+Cflags: -I${prefix}/include/directfb

@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<key_xml>
+    <hisi-key>
+        <key value="0x35caff00" name="KEY_UP"         />      <!--key up-->
+        <key value="0x2dd2ff00" name="KEY_DOWN"       />      <!--key down-->
+        <key value="0x3ec1ff00" name="KEY_RIGHT"      />      <!--key right-->
+        <key value="0x6699ff00" name="KEY_LEFT"       />      <!--key left -->
+        <key value="0x31ceff00" name="KEY_ENTER"      />      <!--key ok -->
+        <key value="0x6f90ff00" name="KEY_BACK"       />      <!--Back -->
+        <key value="0x629dff00" name="KEY_MENU"       />      <!-- -->
+        <key value="0x639cff00" name="KEY_POWER"      />      <!-- -->
+        <key value="0x34cbff00" name="KEY_HOME"       />      <!-- -->
+        <key value="0x7f80ff00" name="KEY_VOLUMEUP"   />      <!-- -->
+        <key value="0x7e81ff00" name="KEY_VOLUMEDOWN" />      <!-- -->
+        <key value="0x22ddff00" name="KEY_MUTE"       />      <!-- -->
+        <key value="0x6d92ff00" name="KEY_1"          />      <!-- -->
+        <key value="0x6c93ff00" name="KEY_2"          />      <!-- -->
+        <key value="0x33ccff00" name="KEY_3"          />      <!-- -->
+        <key value="0x718eff00" name="KEY_4"          />      <!-- -->
+        <key value="0x708fff00" name="KEY_5"          />      <!-- -->
+        <key value="0x37c8ff00" name="KEY_6"          />      <!-- -->
+        <key value="0x758aff00" name="KEY_7"          />      <!-- -->
+        <key value="0x748bff00" name="KEY_8"          />      <!-- -->
+        <key value="0x3bc4ff00" name="KEY_9"          />      <!-- -->
+        <key value="0x7887ff00" name="KEY_0"          />      <!-- -->
+        <key value="0x7b84ff00" name="KEY_F1"         />      <!-- -->
+        <key value="0x7689ff00" name="KEY_F2"         />      <!-- -->
+        <key value="0x26d9ff00" name="KEY_F3"         />      <!-- -->
+        <key value="0x6996ff00" name="KEY_F4"         />      <!-- -->
+        <key value="0x6897ff00" name="KEY_SEARCH"     />      <!-- -->
+        <key value="0x25daff00" name="KEY_REWIND"     />      <!-- -->
+        <key value="0x29d6ff00" name="KEY_FORWARD"    />      <!-- -->
+        <key value="0x2fd0ff00" name="KEY_STOP"       />      <!-- -->
+        <key value="0x6a95ff00" name="KEY_SETUP"      />      <!-- -->
+        <key value="0x38c7ff00" name="KEY_INFO"       />      <!-- -->
+        <key value="0x2ed1ff00" name="KEY_AUDIO"      />      <!-- -->
+        <key value="0x738cff00" name="KEY_SUBTITLE"   />      <!-- -->
+        <key value="0x7788ff00" name="KEY_BACKSPACE"  />      <!-- -->
+        <key value="0x3cc3ff00" name="KEY_PLAYPAUSE"  />      <!-- -->
+        <key value="0x6b94ff00" name="KEY_FAVORITES"  />      <!-- -->
+        <key value="0x7a85ff00" name="KEY_CHANNELUP"  />      <!-- -->
+        <key value="0x7986ff00" name="KEY_CHANNELDOWN"/>      <!-- -->
+        <key value="0x6798ff00" name="KEY_PAGEDOWN"   />      <!-- -->
+        <key value="0x30cfff00" name="KEY_PAGEUP"     />      <!-- -->
+        <key value="0x609fff00" name="KEY_FN_1"       />      <!-- -->
+        <key value="0x39c6ff00" name="KEY_FN_2"       />      <!-- -->
+        <key value="0x649bff00" name="KEY_FN_D"       />      <!-- -->
+        <key value="0x659aff00" name="KEY_FN_E"       />      <!-- -->
+        <key value="0x3fc0ff00" name="KEY_FN_F"       />      <!-- -->
+        <key value="0x3dc2ff00" name="KEY_FN_S"       />      <!-- -->
+        <key value="0x7d82ff00" name="KEY_FN_B"       />      <!-- -->
+        <key value="0x9a65ff00" name="KEY_RECALL"     />      <!-- -->
+    </hisi-key>
+    <other-key>
+        <key value="0x23dc4db2" name="KEY_POWER"      />      <!-- -->
+    	<key value="0x67984db2" name="KEY_AUDIO"      />      <!-- -->
+    	<key value="0x639c4db2" name="KEY_SCALE"       />      <!-- -->
+    	<key value="0x728d4db2" name="KEY_SETUP"      />      <!-- -->
+    	<key value="0x29d64db2" name="KEY_LAST"      />      <!-- -->
+	<key value="0x32cd4db2" name="KEY_FN_D"       />      <!-- red-->
+    	<key value="0x6e914db2" name="KEY_FN_S"       />      <!---->
+    	<key value="0x7c834db2" name="KEY_FN_E"       />      <!---->
+	<key value="0x3cc34db2" name="KEY_INFO"       />      <!-- -->
+	<key value="0x6d924db2" name="KEY_1"          />      <!-- -->
+        <key value="0x6c934db2" name="KEY_2"          />      <!-- -->
+        <key value="0x33cc4db2" name="KEY_3"          />      <!-- -->
+        <key value="0x718e4db2" name="KEY_4"          />      <!-- -->
+        <key value="0x708f4db2" name="KEY_5"          />      <!-- -->
+        <key value="0x37c84db2" name="KEY_6"          />      <!-- -->
+        <key value="0x758a4db2" name="KEY_7"          />      <!-- -->
+        <key value="0x748b4db2" name="KEY_8"          />      <!-- -->
+        <key value="0x3bc44db2" name="KEY_9"          />      <!-- -->
+        <key value="0x78874db2" name="KEY_0"          />      <!-- -->
+        <key value="0x25da4db2" name="KEY_NUMERIC_STAR"       />      <!--* -->
+        <key value="0x2fd04db2" name="KEY_NUMERIC_POUND"       />      <!--# -->
+	<key value="0x35ca4db2" name="KEY_UP"         />      <!--key up-->
+        <key value="0x2dd24db2" name="KEY_DOWN"       />      <!--key down-->
+        <key value="0x3ec14db2" name="KEY_RIGHT"      />      <!--key right-->
+        <key value="0x66994db2" name="KEY_LEFT"       />      <!--key left -->
+        <key value="0x31ce4db2" name="KEY_ENTER"      />      <!--key ok -->
+	<key value="0x3ac54db2" name="KEY_BACK"       />      <!--Back -->
+	<key value="0x7d824db2" name="KEY_HOME"     />      <!--local-->
+        <key value="0x6a954db2" name="KEY_PLAYPAUSE"  />      <!-- -->
+    	<key value="0x77884db2" name="KEY_DASHBOARD"       />      <!-- -->
+	<key value="0x7f804db2" name="KEY_VOLUMEUP"   />      <!-- -->
+        <key value="0x7e814db2" name="KEY_VOLUMEDOWN" />      <!-- -->
+        <key value="0x22dd4db2" name="KEY_PAGEUP"     />      <!-- -->
+        <key value="0x738c4db2" name="KEY_PAGEDOWN"   />      <!-- -->
+        <key value="0x7a854db2" name="KEY_CHANNELUP"  />      <!-- -->
+        <key value="0x79864db2" name="KEY_CHANNELDOWN"/>      <!-- -->	
+	<key value="0x649b4db2" name="KEY_REWIND"     />      <!-- -->
+	<key value="0x3dc24db2" name="KEY_FORWARD"    />      <!-- -->		
+	<key value="0x38c74db2" name="KEY_STOP"       />      <!-- -->			
+		<!-- v2专用-->
+	<key value="0x659a4db2" name="KEY_MENU"       />      <!-- -->
+        <key value="0x76894db2" name="KEY_GREEN"         />      <!-- -->
+        <key value="0x7b844db2" name="KEY_RED"         />      <!-- -->
+        <key value="0x26d94db2" name="KEY_YELLOW"         />      <!-- -->
+        <key value="0x69964db2" name="KEY_BLUE"         />      <!-- -->
+    </other-key>
+</key_xml>
